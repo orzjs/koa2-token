@@ -1,0 +1,27 @@
+{
+  "name": "koa2-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orzjs/koa2-token.git"
+  },
+  "author": "PengJiyuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orzjs/koa2-token/issues"
+  },
+  "homepage": "https://github.com/orzjs/koa2-token#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.3.0",
+    "koa": "^2.6.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-jwt": "^3.5.1",
+    "koa-router": "^7.4.0",
+    "util": "^0.11.1"
+  }
+}
